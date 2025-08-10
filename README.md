@@ -61,7 +61,7 @@ Result
 
 A perfect square was drawn manually using ROS2 and the Turtlesim package.
 🔴Example result🔴:
-[(img1.jpg)](https://github.com/joryMansour1/task4/blob/15a816a623fec229346466bf2b1785801bcdc311/img1.jpg)
+<img src="https://github.com/joryMansour1/task4/blob/15a816a623fec229346466bf2b1785801bcdc311/img1.jpg" width="250" alt="Demo" />
 
 Conclusion
 
